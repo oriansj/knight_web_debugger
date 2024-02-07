@@ -15,6 +15,10 @@
 # along with stage0.  If not, see <http://www.gnu.org/licenses/>.
 
 The master repository for this work is located at:
+https://git.sr.ht/~oriansj/knight_web_debugger
+
+with the following mirrors:
+https://github.com/oriansj/knight_web_debugger.git
 
 a simple web interface for debugging programs running on knight hardware.
 
