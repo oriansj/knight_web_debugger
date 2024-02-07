@@ -1,0 +1,3 @@
+[submodule "stage0"]
+	path = stage0
+	url = https://git.sr.ht/~oriansj/stage0
